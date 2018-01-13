@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Ean High
 description: Site in Progress, More Soon
+permalink: /blog/:year/:month/:day/:title
