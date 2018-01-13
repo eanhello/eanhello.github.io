@@ -1,4 +1,5 @@
-# eanhello.github.io
+# Ean High 
+Site in Progress
 <header class="entry-header"></header>
 <div class="entry-content">
 
